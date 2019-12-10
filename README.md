@@ -1,5 +1,5 @@
 # GiGi
-Gorgeous Interactive Graph Interface - Visualizer of Time-Series Data
+##Gorgeous Interactive Graph Interface - Visualizer of Time-Series Data
 This program serves the purpose of visualizing time-series data which any business or person might have. Visualizing this 
 can be useful for those who want to see when there is the most demand in; time of the day, time of the week, time of the month, 
 or time of the year. 
@@ -16,15 +16,15 @@ Screen 3: Numerical data summary
 Screen 4: Options for Graphing (pick the time frame you would like to graph)
 Screen 5: Graph shown
 
-Instructions: Click to continue, press 'e' to go back to previous screen.
+##Instructions: Click to continue, press 'e' to go back to previous screen.
 
 
-BUILT WITH:
+##BUILT WITH:
 Graphics package
 Pandas package
 
 
-AUTHORS:
+##AUTHORS:
 Qiji, Tharun, Karl, Dan, Xavier
 
 
